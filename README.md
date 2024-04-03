@@ -1,5 +1,16 @@
 # Inclusive-Dialogue-Detector
 
+## Project Workflows
+
+- constants 
+- config_entity
+- artifact_entity
+- componenets
+- pipeline 
+- app.py
+
+
+
 ## How to run ?
 
 ```bash 
